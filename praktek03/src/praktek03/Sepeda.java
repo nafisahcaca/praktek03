@@ -10,4 +10,30 @@ public class Sepeda {
                 "warna \t: "+warna+"\n"); 
                 "Harga \t:"+Harga);
     }
+
+    public Private getString() {
+        return String;
+    }
+
+    public void setString(Private String) {
+        this.String = String;
+    }
+
+    public Private getString() {
+        return String;
+    }
+
+    public void setString(Private String) {
+        this.String = String;
+    }
+
+    public double getHarga() {
+        return harga;
+    }
+
+    public void setHarga(double harga) {
+        this.harga = harga;
+    }
+    
+    
 }
