@@ -6,5 +6,14 @@ public class SepedaMotor extends Sepeda{
     void throttle(){
         System.out.println("YEEESSS...");
     }
+
+    public java.lang.String getJenisMotor() {
+        return JenisMotor;
+    }
+
+    public void setJenisMotor(java.lang.String JenisMotor) {
+        this.JenisMotor = JenisMotor;
+    }
+    
     
 }
